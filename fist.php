@@ -1,3 +1,5 @@
 <?php
+# zzzzzzzzzzzzzzzzzz
 phpinfo();
+# zzzzzzzzzzzzzzzzzz
 ?>
